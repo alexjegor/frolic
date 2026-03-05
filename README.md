@@ -4,12 +4,12 @@ Indoor hydroponic system with ESP32-based monitoring, automated irrigation, and 
 
 ## Table of Contents
 
-- [Hydroponic Methods](hydroponics-methods.md) — NFT, Flood & Drain, Drip, Kratky, Aeroponics comparison
-- [Common Problems & Solutions](hydroponics-problems.md) — Biofilm, clogging, algae, root blockage, design strategies
-- [Water Delivery & Plumbing](hydroponics-water-delivery.md) — Pump-driven and gravity systems
-- [IoT & Software](hydroponics-iot-software.md) — ESP32 architecture, sensors, automation, open-source references
-- [3D Printed Parts](hydroponics-3d-printing.md) — Grow channels, mounts, fittings, enclosures
-- [Bill of Materials](hydroponics-bom.md) — Electronics, sensors, pumps, plumbing, nutrients
+- [Hydroponic Methods](methods.md) — NFT, Flood & Drain, Drip, Kratky, Aeroponics comparison
+- [Common Problems & Solutions](problems.md) — Biofilm, clogging, algae, root blockage, design strategies
+- [Water Delivery & Plumbing](water-delivery.md) — Pump-driven and gravity systems
+- [IoT & Software](iot-software.md) — ESP32 architecture, sensors, automation, open-source references
+- [3D Printed Parts](3d-printing.md) — Grow channels, mounts, fittings, enclosures
+- [Bill of Materials](bom.md) — Electronics, sensors, pumps, plumbing, nutrients
 
 ## Goals
 

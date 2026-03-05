@@ -21,12 +21,12 @@ Monitored parameters:
 
 | Document | Description |
 |----------|-------------|
-| [[hydroponics-methods]] | Hydroponic methods comparison (NFT, Flood & Drain, Drip, Kratky, Aeroponics) |
-| [[hydroponics-problems]] | Common problems & engineering solutions |
-| [[hydroponics-water-delivery]] | Water delivery & plumbing architectures |
-| [[hydroponics-iot-software]] | IoT & software architecture, open-source projects |
-| [[hydroponics-3d-printing]] | 3D printed parts & design files |
-| [[hydroponics-bom]] | Bill of materials & purchasing |
+| [[methods]] | Hydroponic methods comparison (NFT, Flood & Drain, Drip, Kratky, Aeroponics) |
+| [[problems]] | Common problems & engineering solutions |
+| [[water-delivery]] | Water delivery & plumbing architectures |
+| [[iot-software]] | IoT & software architecture, open-source projects |
+| [[3d-printing]] | 3D printed parts & design files |
+| [[bom]] | Bill of materials & purchasing |
 
 ## Chosen Approach
 
